@@ -1,26 +1,18 @@
 def my_program():
-    global number
     number = input("Choose a number >>>")
     try:
         number = int(number)
-        return number
+        print(number)
     except ValueError:
-        print("you must enter an int")
+        print("You must enter an int")
         my_program()
-        return number
-
-
-def pal():
-    global number
+        print(number)
     number = str(number)
-    if str(number) == str(number[::-1]):
-        return "is_palindrome", True
+    if number == str(number[::-1]):
+        print("is_palindrome", True)
     else:
-        return "is_palindrome", False
+        print("is_palindrome", False)
 
-
-def prime():
-    global number
     flag = False
     number = int(number)
     if number > 1:
@@ -29,13 +21,9 @@ def prime():
                 flag = True
                 break
     if flag:
-        return "is_not_prime ", False
+        print("is_not_prime ", False)
     else:
-        return "is_prime ", True
-
-
-def div():
-    global number
+        print("is_prime ", True)
 
     n = int(number)
     my_list = []
@@ -43,15 +31,12 @@ def div():
 
         if n % i == 0:
             my_list.append(i)
-
     print("divisor", (my_list[:-1]))
-    return "max_div :", my_list[-2]
-
-
-def dig():
+    print("max_div :", my_list[-2])
+# def dig():
     count = 0
     n = number
     while n != 0:
         n //= 10
         count += 1
-    return "digits", count
+    print("digits", count)
