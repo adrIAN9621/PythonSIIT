@@ -1,0 +1,46 @@
+
+[
+  {
+    "ID": "",
+    "Brand": "Peugeot",
+    "Model": 206,
+    "HP": 58,
+    "Price": 1500
+  },
+  {
+    "ID": "",
+    "Brand": "Dacia",
+    "Model": "Logan",
+    "HP": 75,
+    "Price": 900
+  },
+  {
+    "ID": "",
+    "Brand": "Volkswagen",
+    "Model": "Golf4",
+    "HP": 98,
+    "Price": 2100
+  },
+  {
+    "ID": "",
+    "Brand": "Audi",
+    "Model": "A4",
+    "HP": 120,
+    "Price": 3100
+  },
+  {
+    "ID": "",
+    "Brand": "Mercedes",
+    "Model": "Gle",
+    "HP": 300,
+    "Price": 21000
+  },
+  {
+    "ID": "",
+    "Brand": "Mercedes",
+    "Model": "C Class",
+    "HP": 500,
+    "Price": 35000
+  }
+]
+

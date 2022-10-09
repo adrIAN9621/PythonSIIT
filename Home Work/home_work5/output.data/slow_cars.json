@@ -1,0 +1,23 @@
+[
+  {
+    "ID": "e88011a7369746a3b76f60c4e4d10fe3",
+    "Brand": "Peugeot",
+    "Model": 206,
+    "HP": 58,
+    "Price": 1500
+  },
+  {
+    "ID": "adf801fad1ab442ca038d8e8059f5bfe",
+    "Brand": "Dacia",
+    "Model": "Logan",
+    "HP": 75,
+    "Price": 900
+  },
+  {
+    "ID": "36b58ac5ffef436796f6bdfc1a30a67d",
+    "Brand": "Volkswagen",
+    "Model": "Golf4",
+    "HP": 98,
+    "Price": 2100
+  }
+]

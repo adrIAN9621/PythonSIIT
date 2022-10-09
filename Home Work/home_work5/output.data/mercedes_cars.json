@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "9607d4dfd19a47a481a28ee9bf146d83",
+    "Brand": "Mercedes",
+    "Model": "Gle",
+    "HP": 300,
+    "Price": 21000
+  },
+  {
+    "ID": "8051bc049cf54ce8b584dfc6045d1762",
+    "Brand": "Mercedes",
+    "Model": "C Class",
+    "HP": 500,
+    "Price": 35000
+  }
+]
